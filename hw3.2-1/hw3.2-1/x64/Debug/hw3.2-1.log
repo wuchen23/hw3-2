@@ -1,0 +1,10 @@
+﻿  Source.cpp
+C:\code\hw3-2\hw3.2-1\hw3.2-1\Source.cpp(16,13): warning C4473: 'scanf_s' : 傳遞給格式字串的引數不足
+      C:\code\hw3-2\hw3.2-1\hw3.2-1\Source.cpp(16,13):
+      預留位置及其參數需要 2 個 variadic 引數，但卻提供了 1 個
+      C:\code\hw3-2\hw3.2-1\hw3.2-1\Source.cpp(16,13):
+      缺少 variadic 引數 2 (其為格式字串 '%c' 所需)
+      C:\code\hw3-2\hw3.2-1\hw3.2-1\Source.cpp(16,13):
+      此引數可用為緩衝區大小
+  
+  hw3.2-1.vcxproj -> C:\code\hw3-2\hw3.2-1\x64\Debug\hw3.2-1.exe
